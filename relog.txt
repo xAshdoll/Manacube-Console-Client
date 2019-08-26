@@ -1,0 +1,4 @@
+connect server1 1
+wait 50
+send /server *specify
+wait 150

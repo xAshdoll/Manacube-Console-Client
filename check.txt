@@ -1,0 +1,4 @@
+send /server *specify
+wait 20
+send /afk
+wait 130
