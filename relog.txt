@@ -1,4 +1,6 @@
 connect server1 1
 wait 50
 send /server *specify
-wait 150
+wait 20
+send /afk
+wait 130
